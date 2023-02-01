@@ -1,2 +1,3 @@
 # Keras-tensorflow-porfolio-development-AI
 "This program utilizes the power of Keras and TensorFlow to train on historical Forex data and make predictions about future market trends. 
+The GPU acceleration allows for quick and efficient training, enabling the program to make real-time predictions. The program also uses Flask to connect to a local server, where it outputs data based on statistical probabilities of an asset going up or down. The predictions can then be used to manage a portfolio on various timeframes, from minute to daily, using Flask's GET commands to interface with the MetaTrader suite. This program provides a powerful and automated solution for Forex traders, helping to maximize profits and minimize risk."
